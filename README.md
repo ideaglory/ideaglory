@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+From captivating web designs to cutting-edge mobile app development
+and result-driven online marketing strategies, we specialize in empowering businesses
+to thrive online. With our team of seasoned IT experts, we are dedicated to providing
+tailored solutions that elevate your brand, enhance user experience, and boost sales.
+
 <!--
 **ideaglory/ideaglory** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
